@@ -17,7 +17,7 @@ export class MoviesServiceService {
   }>
  
   constructor() {
-    this.movies = moviesList;
+    // this.movies = moviesList;
   }
 
   getMovies() {

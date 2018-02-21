@@ -16,7 +16,8 @@ let movies = [
       "William Sadler",
       "Clancy Brown",
       "Gil Bellows"
-    ]
+    ],
+    room: 3
   }, {
     id: 2,
     title: "The Godfather",
@@ -34,7 +35,8 @@ let movies = [
       "Richard S. Castellano",
       "Robert Duvall",
       "Sterling Hayden"
-    ]
+    ],
+    room: 2
   }, {
     id: 3,
     title: "The Godfather Part II",
@@ -52,7 +54,8 @@ let movies = [
       "Robert De Niro",
       "John Cazale",
       "Talia Shire"
-    ]
+    ],
+    room: 1
   }, {
     id: 4,
     title: "The Dark Knight",
@@ -70,7 +73,8 @@ let movies = [
       "Michael Caine",
       "Maggie Gyllenhaal",
       "Gary Oldman"
-    ]
+    ],
+    room: 4
   }, {
     id: 5,
     title: "Schindler's List",
@@ -88,6 +92,7 @@ let movies = [
       "Caroline Goodall",
       "Jonathan Sagall",
       "Embeth Davidtz"
-    ]
+    ],
+    room: 5
   }
 ]
